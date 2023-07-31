@@ -1,0 +1,2 @@
+python main.py --model train.onnx --classes a_kinetics.txt --input dataset1.mp4
+ 
